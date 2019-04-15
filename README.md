@@ -5,7 +5,9 @@ and length and width of the stem. In addition, we have an attribute decision-mak
 "Iris-setosa", "Iris-Versicolor" and "Iris-virginica", which divide a set of 50 observations for each of these classes (33.3%).
 
 Numbers of instances: 150 (50 in each of three classes)
+
 Numbers of attributes: 4 numeric and 3 classes
+
 Attribute information:
 1. Sepal length in cm,
 2. Sepal width in cm,
