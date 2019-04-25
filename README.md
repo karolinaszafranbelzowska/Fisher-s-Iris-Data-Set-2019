@@ -1,5 +1,10 @@
 # Fisher-s-Iris-Data-Set-2019
 
+# This reposititory contains the Project 2019 for Programming and Scripting.
+# Karolina Szafran-Belzowska, 2019-04-25
+
+This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT.
+See here for the instructions : https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf 
 The Iris data set concerns 150 flowers irises, which are described 4 traits (conditional attributes): length and width of the petal,
 and length and width of the stem. In addition, we have an attribute decision-making (class) which takes three possible values: 
 "Iris-setosa", "Iris-Versicolor" and "Iris-virginica", which divide a set of 50 observations for each of these classes (33.3%).
