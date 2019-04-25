@@ -19,3 +19,12 @@ Attribute information:
 3. Petal length in cm,
 4. Petal width in cm,
 5. and classes: Iris Setosa, Iris Versicolour, Iris Virginica
+
+## How to download this repository
+  1. Go to GitHub
+  2. Click the download button.
+  
+## How to run the code
+  1. Make sure you have Python installed
+  
+## What each file contains
