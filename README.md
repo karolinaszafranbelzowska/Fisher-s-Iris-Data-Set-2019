@@ -44,3 +44,6 @@ is again the whole data but in tabular way and as above it was adapted from: htt
 
 ### irisdata.txt 
 contains the whole data in .txt file
+
+### iris_data_data_set_txt.py
+contains Python code to show the whole Iris Flower Data Set using .txt file
