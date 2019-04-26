@@ -29,18 +29,18 @@ Attribute information:
   
 ## What each file contains
  
-# iris_data_set.py 
+### iris_data_set.py 
 contains Python code to show the whole Iris Flower Data Set in file.  This file stores tabular data in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The data which is called "The Iris flower data set" or "Fisher's Iris data set" is a multivariate data set introduced by the British statistician and biologist Ronald  Fisher in his 1936. 
    
    References: https://en.wikipedia.org/wiki/Iris_flower_data_set;
                https://stackoverflow.com/;
                https://www.sololearn.com/.
     
-# irisdata.csv 
+### irisdata.csv 
 contains the whole data in .csv file which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
 
-# irisdata_project_2019.csv 
+### irisdata_project_2019.csv 
 is again the whole data but in tabular way and as above it was adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
 
-# irisdata.txt 
+### irisdata.txt 
 contains the whole data in .txt file
