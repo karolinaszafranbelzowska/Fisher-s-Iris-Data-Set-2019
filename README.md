@@ -37,5 +37,8 @@ iris_data_set.py contains Python code to show the whole Iris Flower Data Set in 
                https://stackoverflow.com/;
                https://www.sololearn.com/.
     
+irisdata.csv contains the whole data which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+irisdata_project_2019.csv is again the whole data but in tabular way and as above it was adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
 
 
