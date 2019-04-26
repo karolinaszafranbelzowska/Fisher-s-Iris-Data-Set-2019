@@ -33,9 +33,11 @@ iris_data_set.py contains Python code to show the whole Iris Flower Data Set in 
     Each line of the file is a data record. Each record consists of one or more fields, separated by commas. 
     The data which is called "The Iris flower data set" or "Fisher's Iris data set" is a multivariate data set introduced by the British     statistician and biologist Ronald  Fisher in his 1936. 
    
-   References: https://en.wikipedia.org/wiki/Iris_flower_data_set
-                https://stackoverflow.com/
-                https://www.sololearn.com/
+   References: https://en.wikipedia.org/wiki/Iris_flower_data_set;
+   
+                https://stackoverflow.com/;
+                
+                https://www.sololearn.com/.
     
 
 
