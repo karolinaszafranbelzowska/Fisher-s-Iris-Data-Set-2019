@@ -47,3 +47,7 @@ contains the whole data in .txt file
 
 ### iris_data_data_set_txt.py
 contains Python code to show the whole Iris Flower Data Set using .txt file
+
+### firstcol_irisdata.py
+contains the first column of the whole Iris Flower Data Set
+
