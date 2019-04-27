@@ -127,4 +127,5 @@ Contains summarise of Iris Virginica Data.
 ### Iris_virginica.jpg
 Shows an image of Iris Virginica.
 
-## Sites below helped me to solve most of the problems: https://www.sololearn.com/; https://docs.python.org/3/library/: https://www.youtube.com/; https://stackoverflow.com/; https://en.wikipedia.org/wiki/Iris_flower_data_set https://www.geeksforgeeks.org/python-pandas-series/; https://machinelearningmastery.com/python-machine-learning-mini-course/; https://help.github.com/en/articles/adding-a-file-to-a-repository; https://guides.github.com/features/mastering-markdown/
+### Sites below helped me to solve most of the problems: 
+https://www.sololearn.com/; https://docs.python.org/3/library/: https://www.youtube.com/; https://stackoverflow.com/; https://en.wikipedia.org/wiki/Iris_flower_data_set https://www.geeksforgeeks.org/python-pandas-series/; https://machinelearningmastery.com/python-machine-learning-mini-course/; https://help.github.com/en/articles/adding-a-file-to-a-repository; https://guides.github.com/features/mastering-markdown/
