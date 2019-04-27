@@ -50,7 +50,7 @@ contains Python code to show the whole Iris Flower Data Set using .txt file
 
 ### firstcol_irisdata.py
 contains the first column of the whole Iris Flower Data Set
-References: https://web.microsoftstream.com/video/74b18405-5ee1-47f0-a42d-e8831a453a91
+References: https://web.microsoftstream.com/video/74b18405-5ee1-47f0-a42d-e8831a453a91 (Dr Ian McLoughlin's video - week 9)
 
 ### secondcol_irisdata.py
 contains the second column of the whole Iris Flower Data Set
