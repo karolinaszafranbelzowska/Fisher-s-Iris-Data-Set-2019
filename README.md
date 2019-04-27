@@ -116,4 +116,14 @@ Contains summarise of Iris Versicolor Data.
 ### iris_versicolor.jpg
 Shows an image of Iris Versicolor.
 
+### irisVirginica.csv
+contains the data just of Iris Virginica in .csv file which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+Iris virginica also known as Virginia iris. [Here you can see how this flower looks like.](https://en.wikipedia.org/wiki/Iris_virginica)
+
+### irisVirginica_summarise.py
+Contains summarise of Iris Virginica Data.
+
+### Iris_virginica.jpg
+Shows an image of Iris Virginica.
 
