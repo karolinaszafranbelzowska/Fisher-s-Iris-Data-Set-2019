@@ -1,18 +1,17 @@
 # Karolina Szafran-Belzowska, 2019/04/27
 # Iris Flower Data Analysis
 
-# second column histogram (sepal width)
+# third column histogram (petal length)
 
 import numpy as np
 import matplotlib.pyplot as pl
 
 data = np.genfromtxt('irisdata.txt', delimiter=',')
-secondcol = data[:,1]
-meansecondcol = np.mean(data[:,1])
+thirdcol = data[:,2]
+meanthirdcol = np.mean(data[:,2])
 
-print(meansecondcol)
+print(meanthirdcol)
 
 
-pl.hist(secondcol)
+pl.hist(thirdcol)
 pl.show()
-
