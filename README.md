@@ -100,8 +100,20 @@ contains the data just Iris Setosa in .csv file which I created in Visual Studio
 Iris setosa also known as bristle-pointed iris. [Here you can see how this flower looks like.](https://en.wikipedia.org/wiki/Iris_setosa)
 
 ### irisSetosa_summarise.py
-Contains summarise of Iris Setosa Data
+Contains summarise of Iris Setosa Data.
 
 ### Iris_setosa.jpg
-Shows an image of Iris Setosa
+Shows an image of Iris Setosa.
+
+### irisVersicolor.csv
+contains the data just of Iris Versicolor in .csv file which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+Iris versicolor also known as the blue flag, harlequin blueflag, larger blue flag, northern blue flag and poison flag. [Here you can see how this flower looks like.](https://en.wikipedia.org/wiki/Iris_versicolor)
+
+### irisVersicolor_summarise.py
+Contains summarise of Iris Versicolor Data.
+
+### iris_versicolor.jpg
+Shows an image of Iris Versicolor.
+
 
