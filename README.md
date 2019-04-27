@@ -77,6 +77,13 @@ contains histagram of first column
 contains Python code to show a histagram of second column - sepal width and the mean of this column,
 References: as above.
 
-### secondcol_histagram.png
+### secondcol histagram.png
 contains histagram of second column
+
+### thirdcol_histagram.py
+contains Python code to show a histagram of third column - petal length and the mean of this column,
+References: as above.
+
+### thirdcol histagram.png
+contains histagram of third column
 
