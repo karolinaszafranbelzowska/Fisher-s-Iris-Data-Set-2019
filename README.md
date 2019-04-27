@@ -66,3 +66,10 @@ contains the summarise of the whole Iris Data Set
 References: https://machinelearningmastery.com/python-machine-learning-mini-course/
 https://www.youtube.com/watch?v=Q06Y3DUSwz4
 
+### firstcol_histagram.py
+contains Python code to show a histagram of first column - sepal length
+References: https://web.microsoftstream.com/video/74b18405-5ee1-47f0-a42d-e8831a453a91 (Dr Ian McLoughlin's video - week 9)
+
+### firstcol histagram.png
+contains histagram of first column
+
