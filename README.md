@@ -87,3 +87,11 @@ References: as above.
 ### thirdcol histagram.png
 contains histagram of third column
 
+### fourthcol_histagram.py
+contains Python code to show a histagram of fourth column - petal width and the mean of this column,
+References: as above.
+
+### fourthcol histagram.png
+contains histagram of fourth column
+
+
