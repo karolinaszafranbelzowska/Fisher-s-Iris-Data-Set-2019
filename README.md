@@ -67,9 +67,16 @@ References: https://machinelearningmastery.com/python-machine-learning-mini-cour
 https://www.youtube.com/watch?v=Q06Y3DUSwz4
 
 ### firstcol_histagram.py
-contains Python code to show a histagram of first column - sepal length,
+contains Python code to show a histagram of first column - sepal length and the mean of this column,
 References: https://web.microsoftstream.com/video/74b18405-5ee1-47f0-a42d-e8831a453a91 (Dr Ian McLoughlin's video - week 9)
 
 ### firstcol histagram.png
 contains histagram of first column
+
+### secondcol_histogram.py
+contains Python code to show a histagram of second column - sepal width and the mean of this column,
+References: as above.
+
+### secondcol_histagram.png
+contains histagram of second column
 
