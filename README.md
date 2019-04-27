@@ -94,4 +94,13 @@ References: as above.
 ### fourthcol histagram.png
 contains histagram of fourth column
 
+### irisSetosa.csv
+contains the data just Iris Setosa in .csv file which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
+Iris setosa also known as bristle-pointed iris. [Here you can see how this flower looks like.](https://en.wikipedia.org/wiki/Iris_setosa)
+
+### irisSetosa_summarise.py
+Contains summarise of Iris Setosa Data
+
+### Iris_setosa.jpg
+Shows an image of Iris Setosa
 
