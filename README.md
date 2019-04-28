@@ -45,7 +45,7 @@ Imported the irisdata.csv / irisdata_project_2019.csv and examined all of the co
 
     readCSV = csv.reader(data, delimiter=',')
     data = np.genfromtxt('irisdata.txt', delimiter=',')
-       # I can specific which column I can investigate 
+       # I can specific which column I want to investigate 
     firstcol = data[:,0]
     meanfirstcol = np.mean(data[:,0])
        # I investigated all three classes of Iris flower
@@ -161,6 +161,10 @@ Contains summarise of Iris Virginica Data.
 
 ### Iris_virginica.jpg
 Shows an image of Iris Virginica.
+
+### investigation_data.py
+Contains the shape, the minimum, maximum, mean, median and the standard deviation values of each column.
+
 
 ### The following websites helped me to solve most of the problems: 
 https://www.sololearn.com/; https://docs.python.org/3/library/: https://www.youtube.com/; https://stackoverflow.com/; https://en.wikipedia.org/wiki/Iris_flower_data_set https://www.geeksforgeeks.org/python-pandas-series/; https://machinelearningmastery.com/python-machine-learning-mini-course/; https://help.github.com/en/articles/adding-a-file-to-a-repository; https://guides.github.com/features/mastering-markdown/
