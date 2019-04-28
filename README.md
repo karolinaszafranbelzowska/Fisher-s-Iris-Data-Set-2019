@@ -26,7 +26,42 @@ Attribute information:
   
 ## How to run the code
   1. Make sure you have Python installed
+
+## Libraries used
+Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
+
+Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+
+NumPy is the fundamental package for scientific computing with Python
+
+Matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
+
+     import numpy as np
+     import pandas as pd
+     import matplotlib.pyplot as plt 
+
+## Import data
+Imported the irisdata.csv / irisdata_project_2019.csv and examined all of the columns in the data.
+
+    readCSV = csv.reader(data, delimiter=',')
+    data = np.genfromtxt('irisdata.txt', delimiter=',')
+       # I can specific which column I can investigate 
+    firstcol = data[:,0]
+    meanfirstcol = np.mean(data[:,0])
+       # I investigated all three classes of Iris flower
+    data = ("irisSetosa.csv")
+    names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width','species']
+    dataset = pd.read_csv(data, header=0)
+
+## Discover the histagram 
   
+    pl.hist(firstcol)
+    pl.show()
+    
+## Summarise the data using the panda library
+
+    dataset = pd.read_csv(data, header=0)
+
 ## What each file contains
  
 ### iris_data_set.py 
