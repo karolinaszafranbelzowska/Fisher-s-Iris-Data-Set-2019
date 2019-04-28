@@ -45,7 +45,7 @@ Imported the irisdata.csv / irisdata_project_2019.csv and examined all of the co
 
     readCSV = csv.reader(data, delimiter=',')
     data = np.genfromtxt('irisdata.txt', delimiter=',')
-       # I can specific which column I can investigate 
+       # I can specific which column I want to investigate 
     firstcol = data[:,0]
     meanfirstcol = np.mean(data[:,0])
        # I investigated all three classes of Iris flower
