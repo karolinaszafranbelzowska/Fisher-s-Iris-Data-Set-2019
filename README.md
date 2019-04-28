@@ -26,7 +26,42 @@ Attribute information:
   
 ## How to run the code
   1. Make sure you have Python installed
+
+## Libraries used
+Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
+
+Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+
+NumPy is the fundamental package for scientific computing with Python
+
+Matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
+
+     import numpy as np
+     import pandas as pd
+     import matplotlib.pyplot as plt 
+
+## Import data
+Imported the irisdata.csv / irisdata_project_2019.csv and examined all of the columns in the data.
+
+    readCSV = csv.reader(data, delimiter=',')
+    data = np.genfromtxt('irisdata.txt', delimiter=',')
+       # I can specific which column I can investigate 
+    firstcol = data[:,0]
+    meanfirstcol = np.mean(data[:,0])
+       # I investigated all three classes of Iris flower
+    data = ("irisSetosa.csv")
+    names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width','species']
+    dataset = pd.read_csv(data, header=0)
+
+## Discover the histagram 
   
+    pl.hist(firstcol)
+    pl.show()
+    
+## Summarise the data using the panda library
+
+    dataset = pd.read_csv(data, header=0)
+
 ## What each file contains
  
 ### iris_data_set.py 
@@ -116,4 +151,16 @@ Contains summarise of Iris Versicolor Data.
 ### iris_versicolor.jpg
 Shows an image of Iris Versicolor.
 
+### irisVirginica.csv
+contains the data just of Iris Virginica in .csv file which I created in Visual Studio Code. Adapted from: https://gist.github.com/curran/a08a1080b88344b0c8a7
 
+Iris virginica also known as Virginia iris. [Here you can see how this flower looks like.](https://en.wikipedia.org/wiki/Iris_virginica)
+
+### irisVirginica_summarise.py
+Contains summarise of Iris Virginica Data.
+
+### Iris_virginica.jpg
+Shows an image of Iris Virginica.
+
+### The following websites helped me to solve most of the problems: 
+https://www.sololearn.com/; https://docs.python.org/3/library/: https://www.youtube.com/; https://stackoverflow.com/; https://en.wikipedia.org/wiki/Iris_flower_data_set https://www.geeksforgeeks.org/python-pandas-series/; https://machinelearningmastery.com/python-machine-learning-mini-course/; https://help.github.com/en/articles/adding-a-file-to-a-repository; https://guides.github.com/features/mastering-markdown/
